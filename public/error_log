@@ -1,0 +1,1 @@
+[18-Aug-2023 11:27:01 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AdminController::addproduct() in /home2/chainpul/public_html/inventory-management.chainpulse.tech/app/Http/Controllers/Admin/AdminController.php on line 46
